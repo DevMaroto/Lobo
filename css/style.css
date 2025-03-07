@@ -1,0 +1,14 @@
+@import "/css/global.css";
+@import "/css/header.css";
+@import "/css/@media.css";
+@import "/css/introducao.css";
+@import "/css/experiencia.css";
+@import "/css/formacao.css";
+@import "/css/footer.css";
+
+
+/* li {
+
+está funcionando porem tem que aplicar a fonte direto na tag
+  font-size: 1.6rem;
+} */

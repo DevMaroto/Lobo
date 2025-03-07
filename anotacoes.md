@@ -1,0 +1,1 @@
+## Sempre tenha em mente o tamanho/dimensão do max-width (margin tambem) do seu container, pois se você deseja um site alinhado todos os seus container tem que ter o max-width (margin) do mesmo tamanho/dimensão.
